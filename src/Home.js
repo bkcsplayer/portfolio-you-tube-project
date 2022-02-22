@@ -84,10 +84,10 @@ function Home() {
         <div className="container">
           <div className="home__content">
             <div className="home__meta">
-              <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
-              <h2 className="home__text pz__10">Hi, I’m Jone Doe</h2>
-              <h3 className="home__text sweet pz__10">JS Developer.</h3>
-              <h4 className="home__text pz__10">based in USA.</h4>
+              <h1 className="home__text pz__10">Nice to meet you</h1>
+              <h2 className="home__text pz__10">Hi, I’m Cool</h2>
+              <h3 className="home__text sweet pz__10">Freelance Programmer</h3>
+              <h4 className="home__text pz__10">Turn Ideas Into Programs</h4>
             </div>
           </div>
         </div>

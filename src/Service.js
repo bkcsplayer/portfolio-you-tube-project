@@ -6,13 +6,13 @@ function Service() {
     <div className="service component__space" id="Services">
 
       <div className="heading">
-        <h1 className="heading">My Awesome Service</h1>
-        <p className="heading p__color">
+        <h1 className="heading">We Can Help You</h1>
+        {/* <p className="heading p__color">
           There are many variations of passages of Lorem Ipsum available,
-        </p>
-        <p className="heading p__color">
+        </p> */}
+        {/* <p className="heading p__color">
           but the majority have suffered alteration.
-        </p>
+        </p> */}
       </div>
 
       <div className="container">
@@ -36,7 +36,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Business Stratagy</h1>
+                <h1 className="service__text">Short video</h1>
                 <p className="p service__text p__color">
                   I throw myself down among the
                 </p>
@@ -145,7 +145,7 @@ function Service() {
             </div>
           </div>
 
-          <div className="col__3">
+          {/* <div className="col__3">
             <div className="service__box pointer">
               <div className="icon">
                 <svg
@@ -176,7 +176,7 @@ function Service() {
                 <p className="p service__text p__color">close to the earth.</p>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="col__3">
             <div className="service__box pointer">
@@ -198,7 +198,7 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta">
-                <h1 className="service__text">Mobile App Development</h1>
+                <h1 className="service__text">E-Commerce</h1>
                 <p className="p service__text p__color">
                   I throw myself down among the
                 </p>

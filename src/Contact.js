@@ -1,6 +1,6 @@
 import React from 'react';
 import './Contact.css';
-import contactImg from "./img/about-9.jpg"
+import contactImg from "./img/doge-mini-removebg-preview.png"
 function Contact() {
     return (
         <div className="contact component__space" id="Contact">
@@ -8,9 +8,9 @@ function Contact() {
                 <div className="col__2">
                     <div className="contact__box">
                         <div className="contact__meta">
-                            <h1 className="hire__text">Hire Me.</h1>
-                            <p className="hire__text white">I am available for freelance work. Connect with me via phone:</p>
-                           <p className="hire__text white"><strong>+8436 14 245</strong> or email <strong>admin@example.com</strong></p>
+                            <h1 className="hire__text">Contact Me.</h1>
+                            <p className="hire__text white">Tell me your needs and let me help you convert them into programs</p>
+                           <p className="hire__text white">Email <strong>bkcsplayer@gmail.com</strong></p>
                         </div>
                         <div className="input__box">
                            <input type="text" className="contact name" placeholder="Your name *" />
