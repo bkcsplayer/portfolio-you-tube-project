@@ -31,7 +31,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text">Wechat Mini App</h5>
                      <h4 className="project__text">E-commerce type</h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://finance.yahoo.com/quote/ONLN?p=ONLN&.tsrc=fin-srch" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
