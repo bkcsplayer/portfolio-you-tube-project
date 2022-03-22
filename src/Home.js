@@ -79,7 +79,7 @@ function Home() {
 //               </ul>
 //           </div>
 //            ) : null}
-        </div>
+//         </div>
         {/* HOME CONTENT */}
         <div className="container">
           <div className="home__content">
