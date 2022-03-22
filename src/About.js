@@ -18,16 +18,10 @@ function About() {
             <h1 className="about__heading">About</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-              Turn ideas into programs
-Accelerate the digitalization of your business
-Improve work efficiency
+              我们已经运营超过10年，
               </p>
               <p className="about__text p__color">
-              Web page,
-E-commerce system construction
-Mobile App
-Web App
-Wechat mini App
+              维护保养， 
               </p>
               <p className="about__text p__color">
               Please contact me right away so we can start solving your problem right away.

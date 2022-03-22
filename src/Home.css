@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url();
+    /* background-image: url(); */
     background-color: #010101;
     background-position: 50%;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@ li.sideNavbar{
     padding: 25px 30px;
 }
 /* RESPONSIVE */
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 300px){
  .header{
      justify-content: space-between;
  }

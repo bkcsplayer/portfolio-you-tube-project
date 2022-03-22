@@ -40,7 +40,7 @@ function Home() {
             </ul>
           </div>
           {/* Toogle Menu */}
-          <div className="toggle__menu">
+          {/* <div className="toggle__menu">
             <svg onClick={() => setShow(!show)}
               xmlns="http://www.w3.org/2000/svg"
               width="16"
@@ -54,7 +54,7 @@ function Home() {
                 d="M2 12.5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5zm0-3a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5z"
               />
             </svg>
-          </div>
+          </div> */}
           {show ?(
           <div className="sideNavbar">
               <ul className="sidebar d__flex">
@@ -85,9 +85,9 @@ function Home() {
           <div className="home__content">
             <div className="home__meta">
               <h1 className="home__text pz__10">Nice to meet you</h1>
-              <h2 className="home__text pz__10">Hi, I’m Cool</h2>
-              <h3 className="home__text sweet pz__10">Freelance Programmer</h3>
-              <h4 className="home__text pz__10">Turn Ideas Into Programs</h4>
+              <h2 className="home__text pz__10">Here is Chanda</h2>
+              <h3 className="home__text sweet pz__10">We repair cars</h3>
+              <h4 className="home__text pz__10">Professional service, so you can't refuse the price</h4>
             </div>
           </div>
         </div>
