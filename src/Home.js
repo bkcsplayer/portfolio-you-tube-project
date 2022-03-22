@@ -55,30 +55,30 @@ function Home() {
               />
             </svg>
           </div> */}
-          {show ?(
-          <div className="sideNavbar">
-              <ul className="sidebar d__flex">
-              <li className="sideNavbar">
-              <a href="#home">Home</a>
-            </li>
-            <li className="sideNavbar">
-              <a href="#about">About</a>
-            </li>
-            <li className="sideNavbar">
-              <a href="#services">Services</a>
-            </li>
-            <li className="sideNavbar">
-              <a href="#portfolio">Portfolio</a>
-            </li>
-            <li className="sideNavbar">
-              <a href="#blog">Blog</a>
-            </li>
-            <li className="sideNavbar">
-              <a href="#contact">Contact</a>
-            </li>
-              </ul>
-          </div>
-           ) : null}
+//           {show ?(
+//           <div className="sideNavbar">
+//               <ul className="sidebar d__flex">
+//               <li className="sideNavbar">
+//               <a href="#home">Home</a>
+//             </li>
+//             <li className="sideNavbar">
+//               <a href="#about">About</a>
+//             </li>
+//             <li className="sideNavbar">
+//               <a href="#services">Services</a>
+//             </li>
+//             <li className="sideNavbar">
+//               <a href="#portfolio">Portfolio</a>
+//             </li>
+//             <li className="sideNavbar">
+//               <a href="#blog">Blog</a>
+//             </li>
+//             <li className="sideNavbar">
+//               <a href="#contact">Contact</a>
+//             </li>
+//               </ul>
+//           </div>
+//            ) : null}
         </div>
         {/* HOME CONTENT */}
         <div className="container">
